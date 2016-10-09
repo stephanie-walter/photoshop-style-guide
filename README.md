@@ -1,6 +1,6 @@
 # Photoshop Style Guide
-My Style Guide starter file I use when I start a Photoshop project. It contains colors, responsive typography,normal, active and hover buttons, forms, icons, tables, image alignments, ui elements, etc.
-It is currently using artboards to separate the different parts (so you'll need PS 2015 at least). You can then either export them seperatly using the artboard export of everything in one big file (using the old safe for web).
+My Style Guide starter file I use when I start a Photoshop project. It contains colors, responsive typography, normal, active and hover buttons, forms, icons, tables, image alignments, ui elements, etc.
+It is currently using artboards to separate the different parts (so you'll need PS 2015 at least). You can then either export them separately using the artboard export of everything in one big file (using the old safe for web).
 
 For more details about the style guide, <a href="https://blog.stephaniewalter.fr/en/freebies-photoshop-style-guide/">read the blog post.</a>
 
